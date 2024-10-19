@@ -1,15 +1,35 @@
-# Aplicação React de Gerenciamento de Projetos e Tarefas
+# Aplicação de Demonstração: Gerenciamento de Projetos e Tarefas
 
-Projeto criado com as bibliotecas React JS e Material UI.
+Esta é uma aplicação de demonstração criada como parte de uma atividade acadêmica por Vinicius Predebon para o curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) da Faculdade Descomplica.
 
-## Passo-a-passo para execução
+## Sobre o Projeto
 
-1. Clonar o repositório
-2. Localmente, entrar na pasta do projeto e instalar as dependências:
-   `
+Este projeto é uma aplicação React de gerenciamento de projetos e tarefas, desenvolvida utilizando React JS e Material UI.
+
+## Instruções de Execução
+
+Para executar esta aplicação em seu ambiente local, siga os passos abaixo:
+
+1. Clone o repositório para sua máquina local.
+2. Navegue até a pasta do projeto e instale as dependências:
+   ```
    npm install
-   `
-3. Executar a aplicação:
-   `
+   ```
+3. Inicie a aplicação:
+   ```
    npm start
-   `
+   ```
+4. A aplicação estará disponível em seu navegador, geralmente no endereço `http://localhost:3000`.
+
+## Tecnologias Utilizadas
+
+- React JS
+- Material UI
+
+## Autor
+
+Vinicius Predebon
+
+## Instituição
+
+Faculdade Descomplica - Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)
